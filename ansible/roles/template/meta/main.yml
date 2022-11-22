@@ -2,7 +2,7 @@
 galaxy_info:
   company: thecodemaster.net
   author: Luciano Sampaio
-  description: Setup Ubuntu image with default settings.
+  description: Setup Ubuntu image with Docker installed.
 
   license: MIT
 

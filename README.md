@@ -1,5 +1,5 @@
-# {project_name}
-Description XXX.
+# proxmox-ubuntu-22-04-server-std-docker
+Packer project to create an Ubuntu template on Proxmox cloned from the server-standard and with Docker installed.
 
 # Scripts:
 [Packer](packer/ "Packer")

@@ -1,6 +1,6 @@
 galaxy_info:
   author: Luciano Sampaio
-  description: Setup Ubuntu VM with default settings.
+  description: Setup Ubuntu VM with Docker installed.
   company: thecodemaster.net
 
   license: MIT
