@@ -6,10 +6,12 @@
 
 ## 2. Install required packages.
 
-## 3. Remove unnecessary files, folders and configuration.
+## 3. Remove unnecessary packages.
 
 ## 4. Recreate the machine-id file so the new VM can get a new IP.
 
-# Created by: 
+## 5. Remove unnecessary files, folders and configuration.
+
+# Created by:
 
 1. Luciano Sampaio.
