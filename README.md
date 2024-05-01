@@ -6,7 +6,7 @@ Packer project to create an Ubuntu template on Proxmox cloned from the server-st
 
 [Ansible](ansible/ "Ansible")
 
-# Links:
+### Links:
 
 [Links](links.md "Links")
 
@@ -14,6 +14,6 @@ Packer project to create an Ubuntu template on Proxmox cloned from the server-st
 
 [MIT](LICENSE "MIT License")
 
-# Created by: 
+# Created by:
 
 1. Luciano Sampaio.
