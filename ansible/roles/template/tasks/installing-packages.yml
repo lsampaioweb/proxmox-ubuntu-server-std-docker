@@ -1,8 +1,3 @@
 ---
-- name: "Upgrading the packages"
-  ansible.builtin.apt:
-    update_cache: true
-    upgrade: "safe"
-
 - name: "Setting up the Docker"
   ansible.builtin.import_tasks: "roles/common/tasks/debian/packages/docker.yml"
