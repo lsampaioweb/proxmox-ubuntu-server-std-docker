@@ -3,9 +3,9 @@ Packer project to create an Ubuntu template on Proxmox cloned from the server-st
 
 #
 ### Scripts:
-[Packer](packer/ "Packer")
+[Packer](packer/README.md "Packer")
 
-[Ansible](ansible/ "Ansible")
+[Ansible](ansible/README.md "Ansible")
 
 #
 ### Links:
