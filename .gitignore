@@ -9,7 +9,6 @@ crash.log
 
 # Folders and files with passwords.
 **/tmp/*
-user-data
 
 # Mac OSX Files.
 .DS_Store
