@@ -4,7 +4,7 @@ Project with Ansible scripts to create an Ubuntu template on Proxmox cloned from
 Run the command in the terminal:
 ```bash
   ansible-playbook template.yml -e "hostname=ubuntu-24-04-server-std-docker"
-  ansible-playbook kvm_setup.yml -e "node=kvm-07 vm_id=912 storage_pool=Ceph_Gold"
+  ansible-playbook kvm_setup.yml -e "node=edge-pve-01 vm_name=ubuntu-24-04-server-std-docker"
 ```
 
 #
