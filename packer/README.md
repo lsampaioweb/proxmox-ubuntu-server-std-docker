@@ -1,8 +1,8 @@
-# proxmox-ubuntu-22-04-server-std-docker
+# proxmox-ubuntu-server-std-docker
 Packer project to create an Ubuntu template on Proxmox cloned from the server-standard and with Docker installed.
 
 This repository uses sub-modules:<br/>
-1. [packer-proxmox-ubuntu-22-04-clone](https://github.com/lsampaioweb/packer-proxmox-ubuntu-22-04-clone "packer-proxmox-ubuntu-22-04-clone").
+1. [packer-proxmox-ubuntu-clone](https://github.com/lsampaioweb/packer-proxmox-ubuntu-clone "packer-proxmox-ubuntu-clone").
 1. [ansible-common-tasks](https://github.com/lsampaioweb/ansible-common-tasks "ansible-common-tasks").
 1. [ansible-kvm-cloud-init](https://github.com/lsampaioweb/ansible-kvm-cloud-init "ansible-kvm-cloud-init").
 
