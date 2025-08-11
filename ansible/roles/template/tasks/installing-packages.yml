@@ -1,3 +1,5 @@
 ---
 - name: "Setting up the Docker"
-  ansible.builtin.import_tasks: "roles/common/tasks/debian/packages/docker.yml"
+  ansible.builtin.import_role:
+    name: "common"
+    tasks_from: "debian/packages/docker"
